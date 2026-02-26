@@ -1,6 +1,6 @@
 {
-  "name": "Dutta",
-  "short_name": "Dutta",
+  "name": "Crate",
+  "short_name": "Crate",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#3E4EB8",
