@@ -12,7 +12,7 @@ const index = (APP_URL, NODE_ENV, helmet = null, appHtml = '', styles = '', init
     <link rel="manifest" href="/manifest.json">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="#7367F0">
-    <meta name="apple-mobile-web-app-title" content="Crate">
+    <meta name="apple-mobile-web-app-title" content="Dutta">
     <meta name="msapplication-TileColor" content="#2F3BA2">
     <link rel="canonical" href="${ APP_URL }">
     
